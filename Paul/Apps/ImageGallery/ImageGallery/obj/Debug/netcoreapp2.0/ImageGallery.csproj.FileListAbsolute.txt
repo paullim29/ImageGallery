@@ -11,3 +11,5 @@ D:\Paul\Apps\ImageGallery\ImageGallery\obj\Debug\netcoreapp2.0\ImageGallery.Asse
 D:\Paul\Apps\ImageGallery\ImageGallery\obj\Debug\netcoreapp2.0\ImageGallery.AssemblyInfo.cs
 D:\Paul\Apps\ImageGallery\ImageGallery\obj\Debug\netcoreapp2.0\ImageGallery.dll
 D:\Paul\Apps\ImageGallery\ImageGallery\obj\Debug\netcoreapp2.0\ImageGallery.pdb
+D:\Paul\Apps\ImageGallery\ImageGallery\bin\Debug\netcoreapp2.0\ImageGallery.Services.dll
+D:\Paul\Apps\ImageGallery\ImageGallery\bin\Debug\netcoreapp2.0\ImageGallery.Services.pdb
